@@ -7,4 +7,3 @@ puts "   |   |
    |   |
 "
 read x
-
